@@ -1,10 +1,10 @@
 
-.main{
+.Accio{
 	height:150px;
-	background-color:black;
+	background-color:#000000;
 }
 .hello-accio{
-	text-decoration-color:white;
+	color:#ffffff;
 	margin-left:32px;
 	padding:10px
 }
